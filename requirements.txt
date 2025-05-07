@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF==1.23.6
+Pillow
+pandas
+cohere
+numpy
